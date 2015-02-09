@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="936d2326-a8c7-44bf-acdf-f81012af4885" name="Default" comment="" />
+    <list default="true" id="936d2326-a8c7-44bf-acdf-f81012af4885" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main_function.py" afterPath="$PROJECT_DIR$/main_function.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="crawling_data_getter.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +30,8 @@
       <file leaf-file-name="main_function.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main_function.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.104377106" vertical-offset="4732" max-vertical-offset="6086">
-              <caret line="282" column="0" selection-start-line="282" selection-start-column="0" selection-end-line="283" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.23595506" vertical-offset="4812" max-vertical-offset="6086">
+              <caret line="288" column="0" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="0" />
               <folding>
                 <element signature="e#60#82#0" expanded="true" />
               </folding>
@@ -51,8 +54,8 @@
       <file leaf-file-name="crawling_module.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crawling_module.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="3757">
-              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="48" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3757">
+              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
               <folding>
                 <element signature="e#54#68#0" expanded="true" />
               </folding>
@@ -71,9 +74,9 @@
         <option value="$USER_HOME$/AppData/Local/Temp/Temp1_PAM3.0.zip/PAM30.py" />
         <option value="C:/Python27/Lib/site-packages/PAM30.py" />
         <option value="$PROJECT_DIR$/main_function_IE.py" />
-        <option value="$PROJECT_DIR$/main_function.py" />
         <option value="$PROJECT_DIR$/crawling_module.py" />
         <option value="$PROJECT_DIR$/proxy_test.py" />
+        <option value="$PROJECT_DIR$/main_function.py" />
       </list>
     </option>
   </component>
@@ -302,12 +305,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24304539" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -341,6 +345,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="main_Function Modified" />
+    <option name="LAST_COMMIT_MESSAGE" value="main_Function Modified" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -775,16 +781,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crawling_module.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="3757">
-          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="48" selection-end-column="19" />
-          <folding>
-            <element signature="e#54#68#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/proxy_test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="800" max-vertical-offset="1649">
@@ -795,10 +791,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/crawling_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3757">
+          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+          <folding>
+            <element signature="e#54#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main_function.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.104377106" vertical-offset="4732" max-vertical-offset="6086">
-          <caret line="282" column="0" selection-start-line="282" selection-start-column="0" selection-end-line="283" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.23595506" vertical-offset="4812" max-vertical-offset="6086">
+          <caret line="288" column="0" selection-start-line="288" selection-start-column="0" selection-end-line="288" selection-end-column="0" />
           <folding>
             <element signature="e#60#82#0" expanded="true" />
           </folding>
