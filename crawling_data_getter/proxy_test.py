@@ -14,36 +14,6 @@ reload(sys)
 sys.setdefaultencoding("utf-8")
 
 
-#-------------------------------------#TESTCODE START#----------------------------------------------------
-# buf = crawling_module.get_url_source('http://www.bengo4.com/tokyo/', 'UTF-8')
-#print buf
-
-# getword = crawling_module.get_word_between_to_total_string(buf, '<a target="_blank1111" class="uaLbl_111" href="', '">')
-
-# buf = crawling_module.get_url_source_by_proxy('http://www.bengo4.com/tokyo/', 'http://202.106.16.36:3128', 'UTF-8')
-# print buf
-
-#Regex test Start
-# result = crawling_module.replace_str_by_regex_index('にち1幅get広く　にち2ひ　getやが　にち334get', 'にち\d','===',-4)
-# print result
-# print result[0]
-# print result[1]
-# print result[2]
-#Regex test End
-
-# result = crawling_module.ReplaceStrByRegexIndex( 'にち1幅広くにち2ひやがにち3にち4㈰にち2ｘにち5','にち\d','===',-3)
-
-# buf = crawling_module.get_url_source('http://tabelog.com/tokyo/A1307/A130701/', 'UTF-8')
-
-# buf = crawling_module.get_url_source_by_proxy('http://tabelog.com/tokyo/A1307/A130701/', 'http://117.135.252.14:84', 'UTF-8')
-# print buf
-
-#使えるプロキシ： http://60.55.49.9:3128
-
-# write_data_to_file_by_url('http://tabelog.com/tokyo/A1307/A130701/13000005/', 'http://120.198.243.82:80')
-
-#-------------------------------------#TESTCODE END#----------------------------------------------------
-
 def proxy_test(proxy_list):
 
     for proxy in proxy_list:
