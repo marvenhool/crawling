@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="936d2326-a8c7-44bf-acdf-f81012af4885" name="Default" comment="main_Function Modified" />
+    <list default="true" id="936d2326-a8c7-44bf-acdf-f81012af4885" name="Default" comment="main_Function Modified">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SeleniumWebDriverDemo.py" afterPath="$PROJECT_DIR$/SeleniumWebDriverDemo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="crawling_data_getter.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,12 +27,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Tabelog_Breakpoint_Ver.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tabelog_Breakpoint_Ver.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tabelog_Breakpoint_Ver.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5882">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeleniumWebDriverDemo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SeleniumWebDriverDemo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.3241206" vertical-offset="0" max-vertical-offset="1020">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="e#54#76#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,7 +63,6 @@
         <option value="$PROJECT_DIR$/crawling_module.py" />
         <option value="$PROJECT_DIR$/main_function.py" />
         <option value="$PROJECT_DIR$/main_function_IE.py" />
-        <option value="$PROJECT_DIR$/SeleniumWebDriverDemo.py" />
         <option value="$PROJECT_DIR$/proxy_test.py" />
         <option value="$PROJECT_DIR$/BaseCrawler_Http_Ver.py" />
         <option value="$PROJECT_DIR$/BaseCrawler_IE_Ver.py" />
@@ -56,6 +70,7 @@
         <option value="$PROJECT_DIR$/tabelog_breakpoint.py" />
         <option value="$PROJECT_DIR$/Tabelog_Breakpoint.py" />
         <option value="$PROJECT_DIR$/Tabelog_Usual.py" />
+        <option value="$PROJECT_DIR$/SeleniumWebDriverDemo.py" />
       </list>
     </option>
   </component>
@@ -88,7 +103,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -109,12 +123,13 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tabelog_Breakpoint_Ver.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SeleniumWebDriverDemo.py" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -257,7 +272,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="crawling_data_getter" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Tabelog_Breakpoint_Ver.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumWebDriverDemo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
@@ -303,7 +318,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -313,19 +328,19 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32913387" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4929134" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32913387" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4535433" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -351,11 +366,47 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="89" />
+      <option name="time" value="98" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Tabelog_Breakpoint_Ver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5882">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumWebDriverDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#54#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tabelog_Breakpoint_Ver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5882">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumWebDriverDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#54#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SeleniumWebDriverDemo.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1190">
@@ -371,7 +422,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2448" max-vertical-offset="3757">
           <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -380,7 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="1530">
           <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -388,7 +438,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="158" max-vertical-offset="765">
           <caret line="41" column="94" selection-start-line="41" selection-start-column="94" selection-end-line="41" selection-end-column="94" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -397,7 +446,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="3689">
           <caret line="21" column="83" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -407,7 +456,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3689">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -417,7 +466,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="843" max-vertical-offset="3689">
           <caret line="35" column="0" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="13" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -427,7 +476,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3672">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -437,7 +486,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="85" max-vertical-offset="3672">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -447,7 +496,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="1059" max-vertical-offset="3655">
           <caret line="183" column="34" selection-start-line="183" selection-start-column="24" selection-end-line="183" selection-end-column="34" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -457,7 +506,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3655">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -467,7 +516,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2900" max-vertical-offset="3655">
           <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -477,7 +526,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2623" max-vertical-offset="3230">
           <caret line="135" column="49" selection-start-line="135" selection-start-column="49" selection-end-line="135" selection-end-column="49" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -487,7 +536,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2475" max-vertical-offset="3230">
           <caret line="135" column="49" selection-start-line="135" selection-start-column="49" selection-end-line="135" selection-end-column="49" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -497,7 +546,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2832" max-vertical-offset="3230">
           <caret line="135" column="49" selection-start-line="135" selection-start-column="49" selection-end-line="135" selection-end-column="49" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -507,7 +556,7 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="2832" max-vertical-offset="3230">
           <caret line="135" column="49" selection-start-line="135" selection-start-column="49" selection-end-line="135" selection-end-column="49" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -603,29 +652,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BaseCrawler_IE_Ver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83196044" vertical-offset="158" max-vertical-offset="765">
-          <caret line="41" column="94" selection-start-line="41" selection-start-column="94" selection-end-line="41" selection-end-column="94" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BaseCrawler_Http_Ver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.72817135" vertical-offset="544" max-vertical-offset="1530">
           <caret line="58" column="0" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/SeleniumWebDriverDemo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7199341" vertical-offset="175" max-vertical-offset="1190">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding>
-            <element signature="e#54#76#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -634,7 +664,7 @@
         <state vertical-scroll-proportion="-2.044481" vertical-offset="2448" max-vertical-offset="3757">
           <caret line="71" column="30" selection-start-line="71" selection-start-column="30" selection-end-line="71" selection-end-column="30" />
           <folding>
-            <element signature="e#54#68#0" expanded="true" />
+            <element signature="e#54#68#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -644,6 +674,23 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5882">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BaseCrawler_IE_Ver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3469388" vertical-offset="102" max-vertical-offset="765">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumWebDriverDemo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.3241206" vertical-offset="0" max-vertical-offset="1020">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#54#76#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
