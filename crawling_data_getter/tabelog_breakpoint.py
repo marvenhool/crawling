@@ -134,7 +134,6 @@ def write_data_to_file_by_url(data_page_url, PROXY):
         else:
              booking = '予約可'
 
-
         #####住所
         address = crawling_module.get_word_between(buf, '<p rel="v:addr">', '</p>')
         address = address.replace('<span property="v:region">', '')

@@ -69,7 +69,6 @@ def write_data_to_file_by_url(data_page_url, PROXY):
         else:
             shop_status = '閉店'
 
-
         #####会員状況
         membership = ''
         if buf.find('このレストランは食べログ店舗会員に登録しているため、ユーザの皆様は編集することができません。') != -1:
@@ -79,7 +78,6 @@ def write_data_to_file_by_url(data_page_url, PROXY):
                 membership = '有料会員'
         else:
             membership = '非会員'
-
 
         #####ジャンル
         genre = crawling_module.get_word_between_to_total_string(buf, '<span property="v:category">', '</span>')
