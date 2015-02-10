@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="936d2326-a8c7-44bf-acdf-f81012af4885" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ProxyTest.py" afterPath="$PROJECT_DIR$/ProxyTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tabelog_Breakpoint_Ver.py" afterPath="$PROJECT_DIR$/Tabelog_Breakpoint_Ver.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Tabelog_Usual_Ver.py" afterPath="$PROJECT_DIR$/Tabelog_Usual_Ver.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="crawling_data_getter.iws" />
@@ -29,18 +32,50 @@
       <file leaf-file-name="Tabelog_Breakpoint_Ver.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Tabelog_Breakpoint_Ver.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5882">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="4607" max-vertical-offset="5287">
+              <caret line="280" column="8563" selection-start-line="280" selection-start-column="8563" selection-end-line="280" selection-end-column="8563" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SeleniumWebDriverDemo.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ProxyTest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProxyTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.034483" vertical-offset="239" max-vertical-offset="799">
+              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tabelog_Usual_Ver.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tabelog_Usual_Ver.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.52987015" vertical-offset="4488" max-vertical-offset="5406">
+              <caret line="282" column="8563" selection-start-line="282" selection-start-column="8563" selection-end-line="282" selection-end-column="8563" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeleniumWebDriverDemo.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SeleniumWebDriverDemo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.3241206" vertical-offset="0" max-vertical-offset="1020">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="30" />
+              <folding>
+                <element signature="e#54#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SeleniumWebDriverDemo_image.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SeleniumWebDriverDemo_image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="159" max-vertical-offset="646">
+              <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
               <folding>
                 <element signature="e#54#76#0" expanded="true" />
               </folding>
@@ -75,6 +110,10 @@
         <option value="$PROJECT_DIR$/Tabelog_Breakpoint.py" />
         <option value="$PROJECT_DIR$/Tabelog_Usual.py" />
         <option value="$PROJECT_DIR$/SeleniumWebDriverDemo.py" />
+        <option value="$PROJECT_DIR$/SeleniumWebDriverDemo_image.py" />
+        <option value="$PROJECT_DIR$/ProxyTest.py" />
+        <option value="$PROJECT_DIR$/Tabelog_Breakpoint_Ver.py" />
+        <option value="$PROJECT_DIR$/Tabelog_Usual_Ver.py" />
       </list>
     </option>
   </component>
@@ -133,7 +172,7 @@
   <component name="PropertiesComponent">
     <property name="FullScreen" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SeleniumWebDriverDemo.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ProxyTest.py" />
     <property name="restartRequiresConfirmation" value="true" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -276,7 +315,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="crawling_data_getter" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumWebDriverDemo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ProxyTest.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PyDebugRunner" />
@@ -330,7 +369,13 @@
       <option name="project" value="LOCAL" />
       <updated>1423545898043</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="main_Function Modified">
+      <created>1423552152967</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1423552152967</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -382,7 +427,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="98" />
+      <option name="time" value="99" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -685,14 +730,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tabelog_Breakpoint_Ver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5882">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BaseCrawler_IE_Ver.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3469388" vertical-offset="102" max-vertical-offset="765">
@@ -700,13 +737,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tabelog_Breakpoint_Ver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="4607" max-vertical-offset="5287">
+          <caret line="280" column="8563" selection-start-line="280" selection-start-column="8563" selection-end-line="280" selection-end-column="8563" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/SeleniumWebDriverDemo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.3241206" vertical-offset="0" max-vertical-offset="1020">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1037">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="30" />
           <folding>
             <element signature="e#54#76#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumWebDriverDemo_image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="159" max-vertical-offset="646">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="e#54#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProxyTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.034483" vertical-offset="239" max-vertical-offset="799">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tabelog_Usual_Ver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52987015" vertical-offset="4488" max-vertical-offset="5406">
+          <caret line="282" column="8563" selection-start-line="282" selection-start-column="8563" selection-end-line="282" selection-end-column="8563" />
+          <folding />
         </state>
       </provider>
     </entry>
