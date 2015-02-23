@@ -19,7 +19,7 @@ class Crawler:
         #ドライバーのパスを指定し、クロームが起動することができます。
         self.chrome_driver_path = 'C:\Program Files (x86)\Google\Chrome\Application\chromedriver.exe'
 
-    def athome_data_getter(self):
+    def athome_data_get(self):
         driver = webdriver.Chrome(self.chrome_driver_path)
         driver.maximize_window()
 
@@ -59,6 +59,6 @@ class Crawler:
         driver.quit()
 
 
-if __name__ =='__main__':
+if __name__ == '__main__':
     crawler = Crawler()
-    crawler.athome_data_getter()
+    crawler.athome_data_get()
